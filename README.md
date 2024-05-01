@@ -1,7 +1,7 @@
-## Project Name: Interactive Map Visualisation with Electric Vehicle and House Price Data
+## Project Name: i want to buy a house map
 
 ### Introduction:
-This project showcases an interactive map visualization created using Jupyter Notebook. The aim of the project is to explore the relationship between electric vehicle data, house prices, and local authority boundaries in the UK. The project utilizes various Python libraries such as pandas, geopandas, and folium for data analysis and visualization.
+This project showcases an interactive map visualization created using Jupyter Notebook. The project utilizes various Python libraries such as pandas, geopandas, and folium for data analysis and visualization.
 
 ### Data Sources:
 - **Local Authority Boundaries:** The shapefile for local authority boundaries was obtained from [UK Government's Geoportal](https://geoportal.statistics.gov.uk).
