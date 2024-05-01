@@ -1,8 +1,10 @@
 ## Project Name: i want to buy a house map
 
 ### Introduction:
-This project showcases an interactive map visualization created using Jupyter Notebook. 
-In the near future, I intend to buy a house. I also intend to buy an electric car. Naturally, this led me down the path of creating a map visualisation of the shapefile of local authority boundaries in England, combined with data for the mean annual house price in England and how many electric vehicle charging stations were in each local authority. Because this is the only sensible way for me to come to a decision on the best place to make my largest investment yet.
+<p>This project showcases an interactive map visualization created using Jupyter Notebook. </p>
+<p>In the near future, I intend to buy a house.</p>
+<p>I also intend to buy an electric car.</p>
+Naturally, this led me down the path of creating a map visualisation of the shapefile of local authority boundaries in England, combined with data for the mean annual house price in England and how many electric vehicle charging stations were in each local authority. Because this is the only sensible way for me to come to a decision on the best place to make my largest investment yet.
 The project utilizes various Python libraries such as pandas, geopandas, and folium for data analysis and visualization.
 
 ### Data Sources:
